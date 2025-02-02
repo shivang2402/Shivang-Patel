@@ -1,0 +1,25 @@
+{
+  "files": {
+    "main.css": "/shivang2402/Shivang-Patel/static/css/main.d620a155.css",
+    "main.js": "/shivang2402/Shivang-Patel/static/js/main.21753399.js",
+    "static/js/453.ace21015.chunk.js": "/shivang2402/Shivang-Patel/static/js/453.ace21015.chunk.js",
+    "static/media/headshot.png": "/shivang2402/Shivang-Patel/static/media/headshot.f6b3cc7d8837e9185f54.png",
+    "static/media/kambaz.png": "/shivang2402/Shivang-Patel/static/media/kambaz.8171f86f02a966c41784.png",
+    "static/media/bg-light.png": "/shivang2402/Shivang-Patel/static/media/bg-light.bac0efb485244a522981.png",
+    "static/media/bg-dark.png": "/shivang2402/Shivang-Patel/static/media/bg-dark.f420c6b8458af72de935.png",
+    "static/media/imagecomp.png": "/shivang2402/Shivang-Patel/static/media/imagecomp.6e98dfc6c4800b5a1969.png",
+    "static/media/newbiasdetection.png": "/shivang2402/Shivang-Patel/static/media/newbiasdetection.bba3c139254ef45fdc66.png",
+    "static/media/cnn.png": "/shivang2402/Shivang-Patel/static/media/cnn.9cac3f3af452bf9570f8.png",
+    "static/media/naruto.png": "/shivang2402/Shivang-Patel/static/media/naruto.742af71e9c756e9352d9.png",
+    "static/media/eatables.png": "/shivang2402/Shivang-Patel/static/media/eatables.09b508ab1616f9a297eb.png",
+    "static/media/healthbot.png": "/shivang2402/Shivang-Patel/static/media/healthbot.3c93b8b9b4207fdf2291.png",
+    "index.html": "/shivang2402/Shivang-Patel/index.html",
+    "main.d620a155.css.map": "/shivang2402/Shivang-Patel/static/css/main.d620a155.css.map",
+    "main.21753399.js.map": "/shivang2402/Shivang-Patel/static/js/main.21753399.js.map",
+    "453.ace21015.chunk.js.map": "/shivang2402/Shivang-Patel/static/js/453.ace21015.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.d620a155.css",
+    "static/js/main.21753399.js"
+  ]
+}
